@@ -66,7 +66,7 @@ function App() {
 
   return (
     <main className='main-container'>
-      {tenzies && <Confetti width={1580} height={800} />}
+      {tenzies && <Confetti />}
       <h1 className='title'>React Tenzies</h1>
       <p className='instructions'>
         Roll until all dice are the same. Click each die to freeze it at its
