@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# Overview
+
+This project was possible through Scrimba's free React course. Furthermore, Tenzies is one of the many projects that was developed under the course. True to that, it was developed to showcase the skills and knowledge of using React to create dynamic applications.
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
